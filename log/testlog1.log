@@ -1,0 +1,81 @@
+2019-05-21 19:10:58,975 [main] INFO com.listener.SuitListener - Suite Name : SmokeTest
+2019-05-21 19:11:32,334 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-05-21 19:11:56,791 [main] INFO com.testcases.LoginPageTest - Login Page Title Verified
+2019-05-21 19:11:59,482 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-05-21 19:12:28,862 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-05-21 19:12:53,275 [main] INFO com.testcases.LoginPageTest - Login to APS is verified - Test Passed
+2019-05-21 19:12:56,015 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-05-21 19:12:56,029 [main] INFO com.listener.TestListener - ========================= END OF SCENARIO 1 =========================
+2019-05-21 19:13:53,291 [main] INFO com.testcases.SliderPageTest - chrome Browser Started
+2019-05-21 19:13:53,299 [main] INFO com.testcases.SliderPageTest - Slider Title Test Verified
+2019-05-21 19:13:56,154 [main] INFO com.testcases.SliderPageTest - chrome Browser closed
+2019-05-21 19:14:13,637 [main] INFO com.testcases.SliderPageTest - chrome Browser Started
+2019-05-21 19:14:38,191 [main] INFO com.testcases.SliderPageTest - My Account Link clicked -  Test Verified
+2019-05-21 19:14:40,966 [main] INFO com.testcases.SliderPageTest - chrome Browser closed
+2019-05-21 19:14:40,970 [main] INFO com.listener.TestListener - ========================= END OF SCENARIO 2 =========================
+2019-05-21 19:15:32,742 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-05-21 19:16:18,614 [main] INFO com.testcases.LoginPageTest - Dashboard URL verified - Test Passed
+2019-05-21 19:16:21,000 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-05-21 19:17:05,487 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-05-21 19:17:23,356 [main] INFO com.testcases.LoginPageTest - Clicked on Edit Address Link - Test Verified
+2019-05-21 19:17:25,870 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-05-21 19:17:25,876 [main] INFO com.listener.TestListener - ========================= END OF SCENARIO 3 =========================
+2019-05-21 19:17:42,732 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-05-21 19:18:22,383 [main] INFO com.testcases.LoginPageTest - Edit Billing Address Page URL Verified - Test Passed
+2019-05-21 19:18:24,824 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-05-21 19:19:18,217 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-05-21 19:20:34,838 [main] INFO com.testcases.LoginPageTest - Edit Address Information Page Verified - Test Passed
+2019-05-21 19:20:37,505 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-05-21 19:20:54,866 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-05-21 19:22:09,510 [main] INFO com.testcases.LoginPageTest - Edit Address Information Page Verified - Test Passed
+2019-05-21 19:22:11,941 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-05-21 19:22:11,949 [main] INFO com.listener.TestListener - ========================= END OF SCENARIO 4 =========================
+2019-05-21 19:22:13,141 [main] INFO com.listener.Reporter - All Tests are 2
+2019-05-21 19:22:13,141 [main] INFO com.listener.Reporter - Passed Tests are 2
+2019-05-21 19:22:13,141 [main] INFO com.listener.Reporter - Failed Tests are 0
+2019-05-21 19:22:13,142 [main] INFO com.listener.Reporter - All Tests are 2
+2019-05-21 19:22:13,142 [main] INFO com.listener.Reporter - Passed Tests are 2
+2019-05-21 19:22:13,142 [main] INFO com.listener.Reporter - Failed Tests are 0
+2019-05-21 19:22:13,142 [main] INFO com.listener.Reporter - All Tests are 2
+2019-05-21 19:22:13,142 [main] INFO com.listener.Reporter - Passed Tests are 2
+2019-05-21 19:22:13,142 [main] INFO com.listener.Reporter - Failed Tests are 0
+2019-05-21 19:22:13,142 [main] INFO com.listener.Reporter - All Tests are 2
+2019-05-21 19:22:13,143 [main] INFO com.listener.Reporter - Passed Tests are 3
+2019-05-21 19:22:13,143 [main] INFO com.listener.Reporter - Failed Tests are 0
+2019-06-06 12:50:29,492 [main] INFO com.listener.SuitListener - Suite Name : SmokeTest
+2019-06-06 12:51:09,194 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-06-06 12:51:14,518 [main] INFO com.testcases.LoginPageTest - Login Page Title Verified
+2019-06-06 12:51:17,051 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-06-06 12:51:52,597 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-06-06 12:52:18,396 [main] INFO com.testcases.LoginPageTest - Login to APS is verified - Test Passed
+2019-06-06 12:52:21,064 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-06-06 12:52:21,116 [main] INFO com.listener.TestListener - ========================= END OF SCENARIO 1 =========================
+2019-06-06 12:52:21,864 [main] INFO com.listener.Reporter - All Tests are 2
+2019-06-06 12:52:21,864 [main] INFO com.listener.Reporter - Passed Tests are 2
+2019-06-06 12:52:21,865 [main] INFO com.listener.Reporter - Failed Tests are 0
+2019-06-06 13:23:17,750 [main] INFO com.listener.SuitListener - Suite Name : SmokeTest
+2019-06-06 13:24:23,967 [main] INFO com.listener.TestListener - ========================= END OF SCENARIO 1 =========================
+2019-06-06 13:24:24,453 [main] INFO com.listener.Reporter - All Tests are 2
+2019-06-06 13:24:24,454 [main] INFO com.listener.Reporter - Passed Tests are 0
+2019-06-06 13:24:24,454 [main] INFO com.listener.Reporter - Failed Tests are 0
+2019-06-06 13:25:47,939 [main] INFO com.listener.SuitListener - Suite Name : SmokeTest
+2019-06-06 13:26:01,982 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-06-06 13:26:08,364 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-06-06 13:26:36,791 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-06-06 13:26:44,203 [main] INFO com.testcases.LoginPageTest - Login to APS is verified - Test Passed
+2019-06-06 13:26:46,899 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-06-06 13:26:46,947 [main] INFO com.listener.TestListener - ========================= END OF SCENARIO 1 =========================
+2019-06-06 13:26:47,386 [main] INFO com.listener.Reporter - All Tests are 2
+2019-06-06 13:26:47,386 [main] INFO com.listener.Reporter - Passed Tests are 1
+2019-06-06 13:26:47,386 [main] INFO com.listener.Reporter - Failed Tests are 1
+2019-06-06 14:36:44,325 [main] INFO com.listener.SuitListener - Suite Name : SmokeTest
+2019-06-06 14:37:04,776 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-06-06 14:37:11,532 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-06-06 14:37:24,486 [main] INFO com.testcases.LoginPageTest - chrome Browser Started
+2019-06-06 14:37:38,056 [main] INFO com.testcases.LoginPageTest - Login to APS is verified - Test Passed
+2019-06-06 14:37:40,943 [main] INFO com.testcases.LoginPageTest - chrome Browser closed
+2019-06-06 14:37:41,031 [main] INFO com.listener.TestListener - ========================= END OF SCENARIO 1 =========================
+2019-06-06 14:37:41,981 [main] INFO com.listener.Reporter - All Tests are 2
+2019-06-06 14:37:41,981 [main] INFO com.listener.Reporter - Passed Tests are 1
+2019-06-06 14:37:41,982 [main] INFO com.listener.Reporter - Failed Tests are 1
+2019-06-06 14:42:32,552 [main] INFO com.listener.SuitListener - Suite Name : SmokeTest

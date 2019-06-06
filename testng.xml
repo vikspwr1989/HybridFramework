@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeTest">
+<listeners>
+<listener class-name="com.listener.SuitListener"></listener>
+<listener class-name="com.listener.TestListener"></listener>
+<listener class-name="com.listener.Reporter"></listener>
+</listeners>
+
+  <test name="LoginPageTest">
+    <classes>
+      
+      <class name="com.testcases.LoginPageTest"/>
+     
+    </classes>
+  </test> <!-- Test -->
+  
+ <!--   <test  name="SliderPageTest">
+    <classes>
+      <class name="com.testcases.SliderPageTest"/>
+     
+    </classes>
+  </test> Test
+  
+   <test  name="DashboardPageTest">
+    <classes>
+     
+      <class name="com.testcases.DashboardPageTest"/>
+    </classes>
+  </test> Test
+  
+   <test  name="EditBillinAddressPageTest">
+    <classes>
+     
+      <class name="com.testcases.EditBillinAddressPageTest"/>
+     
+    </classes>
+  </test> Test -->
+</suite> <!-- SmokeTest -->
